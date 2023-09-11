@@ -17,10 +17,10 @@ terraform {
   }
 
   cloud {
-    organization = "TERRAFORM-ORG-NAME"
+    organization = "Azure-Betson"
 
     workspaces {
-      name = "TERRAFORM-WORKSPACE-NAME"
+      name = "Azure-Static-Terraform"
     }
   }
 
